@@ -1,3 +1,4 @@
 #!/bin/sh
 mvn -v
-touch app.txt
+pwd
+mvn clean install

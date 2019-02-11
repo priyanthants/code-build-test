@@ -1,2 +1,2 @@
 #!/bin/sh
-mvn -v
+cd /home/backend/app/

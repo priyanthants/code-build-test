@@ -1,3 +1,2 @@
 #!/bin/sh
-cd /home/backend/code-build-test
-mvn clean install
+mvn -v

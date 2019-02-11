@@ -7,5 +7,7 @@ phases:
       - mvn install
 artifacts:
   files:
+    - 'appspec.yml'
+    - 'deploy/'
     - 'target/sample-1.0.0.jar'
     

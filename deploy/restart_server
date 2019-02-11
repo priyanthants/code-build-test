@@ -1,4 +1,3 @@
 #!/bin/sh
 mvn -v
 pwd
-mvn clean install

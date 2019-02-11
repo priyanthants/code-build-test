@@ -1,2 +1,3 @@
 #!/bin/sh
-cd /home/backend/app/
+mvn -v
+pwd

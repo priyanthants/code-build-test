@@ -1,2 +1,3 @@
 #!/bin/sh
-touch start.txt
+cd /home/backend/code-build-test
+mvn spring-boot:run

@@ -1,3 +1,4 @@
 #!/bin/sh
 mvn -v
-pwd
+java -jar /home/backend/app/target/sample-1.0.0.jar
+

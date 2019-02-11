@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /code-build-test
+  - source: /
     destination: /home/backend/
 
 hooks:

@@ -8,6 +8,7 @@ phases:
 artifacts:
   files:
     - 'appspec.yml'
-    - 'deploy/'
+    - 'deploy/before_install'
+    - 'deploy/restart_server'
     - 'target/sample-1.0.0.jar'
     

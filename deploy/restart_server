@@ -1,4 +1,4 @@
 #!/bin/sh
 mvn -v
-nohup java -jar /home/backend/app/target/sample-1.0.0.jar &
+service webapi restart
 
